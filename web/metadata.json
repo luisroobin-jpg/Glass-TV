@@ -1,0 +1,6 @@
+{
+  "name": "GLASS TV - Liquid Glass Android TV Launcher",
+  "description": "Interface premium para televisores Android TV com estética Apple TV e estilo visual Liquid Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
